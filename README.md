@@ -2,8 +2,8 @@
 This iOS project demonstrates a custom implementation of a swiping collection view with manual layout design. Users can swipe between screens to view images and descriptions. The project is designed programmatically without using Storyboard or XIB files.
 
 ## Features
-**Swiping Screens**: Users can swipe between different screens, each displaying an image and a description.
-**Navigation Buttons**:: 'Previous' and 'Next' buttons allow users to navigate between screens. These buttons adjust the page control to reflect the current page.
+**Swiping Screens**: Users can swipe between different screens, each displaying an image and a description. <br />
+**Navigation Buttons**: 'Previous' and 'Next' buttons allow users to navigate between screens. These buttons adjust the page control to reflect the current page. <br />
 **Control**: The page control's colors change based on the current page, providing visual feedback on the current screen.
 
 # Installation and Setup
